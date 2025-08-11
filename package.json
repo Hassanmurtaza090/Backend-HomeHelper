@@ -1,0 +1,16 @@
+{
+  "name": "nn",
+  "version": "1.0.0",
+  "description": "Backend01 For HomeHelper",
+  "keywords": [
+    "javaScript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Hassan Murtaza",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
